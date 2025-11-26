@@ -1,4 +1,4 @@
-numpy
+numpy<2
 opencv-python-headless==4.8.1.78
 Pillow
 matplotlib
@@ -8,4 +8,3 @@ streamlit
 python-multipart
 # fastapi
 # uvicorn
-
