@@ -3,7 +3,7 @@ opencv-python-headless
 Pillow
 matplotlib
 h5py
-tensorflow==2.13.0
+tensorflow==2.15.0
 streamlit
 python-multipart
 fastapi
