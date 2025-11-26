@@ -2,9 +2,10 @@ numpy
 opencv-python-headless==4.8.1.78
 Pillow
 matplotlib
-h5py
-tensorflow==2.16.1
+h5py>=3.8.0
+tensorflow==2.20.0
 streamlit
 python-multipart
-fastapi
-uvicorn
+# fastapi
+# uvicorn
+
